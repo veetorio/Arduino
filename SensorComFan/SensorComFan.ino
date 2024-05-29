@@ -1,5 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <DHT11.h>
-#define fan 13
+#define fan 3
 #define port_i A0
 
 DHT11 sensor(port_i);
